@@ -1,0 +1,12 @@
+2024-01-02 20:24:15.783 [info] Extension host with pid 2089 started
+2024-01-02 20:24:15.783 [info] Skipping acquiring lock for /root/sugihkan/sugihkan/User/workspaceStorage/d69fa0d06460dc5bc392e56ebcb1ab01.
+2024-01-02 20:24:17.212 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-02 20:24:18.379 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-01-02 20:24:19.276 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-02 20:24:19.850 [info] Eager extensions activated
+2024-01-02 20:24:19.869 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-02 20:24:19.895 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-02 20:24:49.017 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-01-02 20:24:49.895 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:csv'
+2024-01-02 20:24:49.969 [info] ExtensionService#_doActivateExtension RandomFractalsInc.vscode-data-preview, startup: false, activationEvent: 'onLanguage:csv'
+2024-01-02 20:24:53.091 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'

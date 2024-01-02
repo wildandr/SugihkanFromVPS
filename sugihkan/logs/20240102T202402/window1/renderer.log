@@ -1,0 +1,6 @@
+2024-01-02 20:24:06.386 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-01-02 20:24:08.528 [info] Started local extension host with pid 2089.
+2024-01-02 20:24:29.515 [info] [perf] Render performance baseline is 422ms
+2024-01-02 20:24:48.243 [warning] [searKing.preview-vscode]: Cannot register 'markdown.styles'. This property is already registered.
+2024-01-02 20:24:48.245 [warning] [searKing.preview-vscode]: Cannot register 'markdown.links.openLocation'. This property is already registered.
+2024-01-02 20:25:05.726 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/root/sugihkan/crypto/MANA-USD_data.csv' (Error: File Modified Since) file:///root/sugihkan/crypto/MANA-USD_data.csv

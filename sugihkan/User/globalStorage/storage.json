@@ -16,11 +16,7 @@
                 "folderUri": "file:///root/sugihkan"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1704174741597"
-            }
-        ]
+        "emptyWindows": []
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -60,7 +56,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -484,8 +481,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel",
-                                    "checked": true
+                                    "label": "&&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -665,13 +661,6 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "workbench.action.splitEditorInGroup",
-                                    "label": "Split in &&Group"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.action.moveEditorToNewWindow",
                                     "label": "&&Move Editor into New Window"
                                 },
@@ -748,10 +737,6 @@
                         "label": "E&&xtensions"
                     },
                     {
-                        "id": "workbench.view.extension.test",
-                        "label": "T&&esting"
-                    },
-                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -775,7 +760,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "enabled": false
                     }
                 ]
             },
@@ -792,7 +778,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1108,7 +1095,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1456,11 +1444,6 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+\\"
             },
-            "workbench.action.splitEditorInGroup": {
-                "label": "Ctrl+K Ctrl+Shift+\\",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
-            },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
                 "userSettingsLabel": "shift+alt+0"
@@ -1696,7 +1679,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 170,
+            "sideBarWidth": 300,
             "statusBarHeight": 22,
             "windowBorder": false
         }

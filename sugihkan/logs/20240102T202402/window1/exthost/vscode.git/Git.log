@@ -1,0 +1,19 @@
+2024-01-02 20:24:51.738 [info] Log level: Info
+2024-01-02 20:24:51.740 [info] Validating found git in: "git"
+2024-01-02 20:24:51.740 [info] Using git "2.34.1" from "git"
+2024-01-02 20:24:51.741 [info] > git rev-parse --show-toplevel [31ms]
+2024-01-02 20:24:51.751 [info] > git rev-parse --git-dir --git-common-dir [16ms]
+2024-01-02 20:24:51.831 [info] Open repository: /root/sugihkan
+2024-01-02 20:24:51.908 [info] > git rev-parse --show-toplevel [23ms]
+2024-01-02 20:24:51.914 [info] > git config --get commit.template [47ms]
+2024-01-02 20:24:51.955 [info] > git rev-parse --show-toplevel [23ms]
+2024-01-02 20:24:51.979 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [30ms]
+2024-01-02 20:24:51.999 [info] > git rev-parse --show-toplevel [24ms]
+2024-01-02 20:24:52.064 [info] > git status -z -uall [65ms]
+2024-01-02 20:24:52.852 [info] > git config --get commit.template [649ms]
+2024-01-02 20:24:53.062 [info] > git check-ignore -v -z --stdin [166ms]
+2024-01-02 20:24:53.529 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [467ms]
+2024-01-02 20:24:53.694 [info] > git status -z -uall [18ms]
+2024-01-02 20:24:54.728 [info] > git merge-base refs/heads/main refs/remotes/origin/main [28ms]
+2024-01-02 20:24:54.791 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [30ms]
+2024-01-02 20:24:55.054 [info] > git check-ignore -v -z --stdin [15ms]
