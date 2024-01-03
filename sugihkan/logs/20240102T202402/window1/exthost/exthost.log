@@ -10,3 +10,5 @@
 2024-01-02 20:24:49.895 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:csv'
 2024-01-02 20:24:49.969 [info] ExtensionService#_doActivateExtension RandomFractalsInc.vscode-data-preview, startup: false, activationEvent: 'onLanguage:csv'
 2024-01-02 20:24:53.091 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-01-02 20:25:08.827 [warning] [Decorations] CAPPING events from decorations provider vscode.git 696
+2024-01-02 20:25:09.741 [warning] [Decorations] CAPPING events from decorations provider vscode.git 696
