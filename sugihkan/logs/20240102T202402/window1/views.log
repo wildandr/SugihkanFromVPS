@@ -11,3 +11,4 @@
 2024-01-02 20:24:17.269 [info] Removed views:workbench.debug.breakPointsView,workbench.debug.callStackView,workbench.debug.watchExpressionsView,workbench.debug.variablesView from workbench.view.debug
 2024-01-02 20:24:17.279 [info] Added views:workbench.debug.welcome in workbench.view.debug
 2024-01-02 20:24:24.627 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2024-01-03 15:58:58.647 [info] Added views:workbench.view.testing in workbench.view.extension.test

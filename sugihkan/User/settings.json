@@ -1,4 +1,5 @@
 {
     "explorer.confirmDragAndDrop": false,
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true
 }

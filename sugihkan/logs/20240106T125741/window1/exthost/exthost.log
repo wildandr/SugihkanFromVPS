@@ -1,0 +1,16 @@
+2024-01-06 12:57:50.648 [info] Extension host with pid 337677 started
+2024-01-06 12:57:50.648 [info] Skipping acquiring lock for /root/sugihkan/sugihkan/User/workspaceStorage/d69fa0d06460dc5bc392e56ebcb1ab01.
+2024-01-06 12:57:52.757 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-01-06 12:57:52.800 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-06 12:57:52.850 [info] ExtensionService#_doActivateExtension RandomFractalsInc.vscode-data-preview, startup: false, activationEvent: 'onLanguage:csv'
+2024-01-06 12:57:57.524 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-06 12:57:59.853 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-06 12:58:00.125 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-06 12:58:01.024 [info] Eager extensions activated
+2024-01-06 12:58:01.961 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-06 12:58:01.974 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-06 12:58:03.745 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-01-11 06:13:02.695 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-01-11 06:13:03.937 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-01-11 06:13:07.645 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-01-11 06:13:08.818 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'

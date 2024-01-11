@@ -4,3 +4,44 @@
 2024-01-02 20:24:48.243 [warning] [searKing.preview-vscode]: Cannot register 'markdown.styles'. This property is already registered.
 2024-01-02 20:24:48.245 [warning] [searKing.preview-vscode]: Cannot register 'markdown.links.openLocation'. This property is already registered.
 2024-01-02 20:25:05.726 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/root/sugihkan/crypto/MANA-USD_data.csv' (Error: File Modified Since) file:///root/sugihkan/crypto/MANA-USD_data.csv
+2024-01-05 13:26:23.752 [info] Extension host (LocalProcess pid: 2089) is unresponsive.
+2024-01-05 13:26:23.797 [info] Extension host (LocalProcess pid: 2089) is responsive.
+2024-01-05 13:26:27.070 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-01-05 13:30:05.929 [info] Extension host (LocalProcess pid: 2089) is unresponsive.
+2024-01-05 13:30:06.369 [info] Extension host (LocalProcess pid: 2089) is responsive.
+2024-01-05 13:30:06.393 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-01-05 13:35:04.778 [info] Extension host (LocalProcess pid: 2089) is unresponsive.
+2024-01-05 13:35:05.313 [info] Extension host (LocalProcess pid: 2089) is responsive.
+2024-01-05 13:35:05.349 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-01-05 15:42:50.210 [info] Extension host (LocalProcess pid: 2089) is unresponsive.
+2024-01-05 15:42:50.276 [info] Extension host (LocalProcess pid: 2089) is responsive.
+2024-01-05 15:42:50.289 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-01-05 18:04:04.037 [info] Extension host (LocalProcess pid: 2089) is unresponsive.
+2024-01-05 18:04:07.302 [info] Extension host (LocalProcess pid: 2089) is responsive.
+2024-01-05 18:04:07.345 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-01-05 18:04:13.879 [info] Extension host (LocalProcess pid: 2089) is unresponsive.
+2024-01-05 18:04:14.215 [info] Extension host (LocalProcess pid: 2089) is responsive.
+2024-01-05 18:04:14.252 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-01-05 18:06:50.087 [info] Extension host (LocalProcess pid: 2089) is unresponsive.
+2024-01-05 18:10:43.506 [info] Extension host (LocalProcess pid: 2089) is responsive.
+2024-01-05 18:10:43.630 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-01-05 18:10:48.145 [info] Extension host (LocalProcess pid: 2089) is unresponsive.
+2024-01-05 18:10:48.213 [info] Extension host (LocalProcess pid: 2089) is responsive.
+2024-01-05 18:10:48.214 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-01-05 18:11:09.921 [info] Extension host (LocalProcess pid: 2089) is unresponsive.
+2024-01-05 18:11:10.226 [info] Extension host (LocalProcess pid: 2089) is responsive.
+2024-01-05 18:11:10.528 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-01-05 18:11:37.195 [info] Extension host (LocalProcess pid: 2089) is unresponsive.
+2024-01-05 18:11:39.469 [info] Extension host (LocalProcess pid: 2089) is responsive.
+2024-01-05 18:11:39.568 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-01-05 18:12:12.975 [info] Extension host (LocalProcess pid: 2089) is unresponsive.
+2024-01-05 18:12:13.309 [info] Extension host (LocalProcess pid: 2089) is responsive.
+2024-01-05 18:12:13.400 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-01-05 18:14:05.953 [info] Extension host (LocalProcess pid: 2089) is unresponsive.
+2024-01-05 18:16:24.820 [info] Extension host (LocalProcess pid: 2089) is responsive.
+2024-01-05 18:16:25.276 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-01-05 18:19:42.362 [info] Extension host (LocalProcess pid: 2089) is unresponsive.
+2024-01-05 18:27:07.399 [info] Extension host (LocalProcess pid: 2089) is responsive.
+2024-01-05 18:28:53.174 [info] Extension host (LocalProcess pid: 2089) is unresponsive.
+2024-01-05 18:28:55.397 [info] Extension host (LocalProcess pid: 2089) is responsive.
+2024-01-05 18:28:55.577 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session

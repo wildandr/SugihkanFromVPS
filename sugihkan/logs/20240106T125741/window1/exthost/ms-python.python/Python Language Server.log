@@ -1,0 +1,17 @@
+2024-01-11 06:13:12.779 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-01-11 06:13:15.205 [info] [Info  - 6:13:15 AM] (524645) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-01-11 06:13:15.207 [info] [Info  - 6:13:15 AM] (524645) Server root directory: /root/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-01-11 06:13:15.208 [info] [Info  - 6:13:15 AM] (524645) Starting service instance "sugihkan"
+2024-01-11 06:13:15.493 [info] [Info  - 6:13:15 AM] (524645) Setting pythonPath for service "sugihkan": "/bin/python3"
+2024-01-11 06:13:15.499 [info] [Info  - 6:13:15 AM] (524645) Setting environmentName for service "sugihkan": "3.10.12 (global)"
+2024-01-11 06:13:15.714 [info] [Info  - 6:13:15 AM] (524645) Assuming Python version 3.10
+2024-01-11 06:13:16.528 [info] [Info  - 6:13:16 AM] (524645) Found 14 source files
+2024-01-11 06:13:26.032 [info] [Info  - 6:13:26 AM] (524645) [IDX(2)] Long operation: scan packages /root/sugihkan (5393ms)
+2024-01-11 06:13:30.698 [info] [Info  - 6:13:30 AM] (524645) [BG(1)] Long operation: getSemanticTokens full at /root/sugihkan/forex.py (10963ms)
+2024-01-11 06:16:39.436 [info] [Info  - 6:16:39 AM] (524645) Setting pythonPath for service "sugihkan": "/bin/python3"
+2024-01-11 06:16:39.438 [info] [Info  - 6:16:39 AM] (524645) Setting environmentName for service "sugihkan": "3.10.12 (global)"
+2024-01-11 06:16:39.656 [info] [Info  - 6:16:39 AM] (524645) Assuming Python version 3.10
+2024-01-11 06:16:40.510 [info] [Info  - 6:16:40 AM] (524645) Found 14 source files
+2024-01-11 06:16:54.622 [info] [Info  - 6:16:54 AM] (524645) [IDX(3)] Long operation: scan packages /root/sugihkan (3851ms)
+2024-01-11 06:16:57.711 [info] [Info  - 6:16:57 AM] (524645) [BG(1)] Long operation: checking: /root/sugihkan/crypto.py (13717ms)
+2024-01-11 06:16:57.712 [info] [Info  - 6:16:57 AM] (524645) [BG(1)] Long operation: analyzing: /root/sugihkan/crypto.py (16953ms)

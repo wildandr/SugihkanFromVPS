@@ -1,0 +1,28 @@
+2024-01-03 15:58:58.520 [info] Experiment 'pythonRecommendTensorboardExtcf' is active
+2024-01-03 15:58:58.520 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-03 15:58:58.520 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2024-01-03 15:58:58.521 [info] Experiment 'pythonTestAdapter' is active
+2024-01-03 15:58:58.684 [info] Default formatter is set to null for workspace /root/sugihkan
+2024-01-03 15:58:58.819 [info] Test server listening.
+2024-01-03 15:58:58.877 [info] > conda info --json
+2024-01-03 15:59:01.713 [info] Found: /bin/python3 --> /bin/python3.10
+2024-01-03 15:59:01.733 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-01-03 15:59:01.835 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-03 15:59:01.835 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-03 15:59:01.835 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-03 15:59:01.835 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-03 15:59:01.836 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-03 15:59:01.836 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-03 15:59:01.836 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-03 15:59:01.836 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-03 15:59:01.891 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-01-03 15:59:01.974 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-01-03 15:59:02.278 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-03 15:59:02.522 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-03 15:59:03.247 [info] Python interpreter path: /bin/python3
+2024-01-03 15:59:03.434 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-03 15:59:03.567 [info] CreateEnv Trigger - Skipping for /root/sugihkan/crypto.py
+2024-01-03 15:59:04.129 [warning] Retry failed, storage update failed for key PYTHON_ENV_INFO_CACHE
+2024-01-03 15:59:04.208 [info] Send text to terminal: /bin/python3 /root/sugihkan/crypto.py
+2024-01-03 15:59:11.418 [info] Starting Pylance language server.
+2024-01-03 15:59:50.260 [info] Send text to terminal: /bin/python3 /root/sugihkan/forex.py

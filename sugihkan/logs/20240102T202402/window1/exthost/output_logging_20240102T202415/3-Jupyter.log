@@ -1,0 +1,14 @@
+Visual Studio Code (1.85.1, undefined, desktop)
+Jupyter Extension Version: 2023.11.1003402403.
+Python Extension Version: 2023.22.1.
+Pylance Extension Version: 2023.12.1.
+Platform: linux (x64).
+Workspace folder ~/sugihkan, Home = /root
+15:59:00.016 [info] Start refreshing Kernel Picker (1704297540016)
+15:59:00.089 [info] Using Pylance
+15:59:03.553 [warn] Failed to get activated env vars for /bin/python3 in 326ms
+15:59:03.680 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+15:59:03.845 [info] Process Execution: /bin/python3 -m pip list
+15:59:06.283 [info] End refreshing Kernel Picker (1704297540016)
+00:00:15.727 [info] Disposing HostJupyterExecution
+00:00:15.742 [info] Disposing HostJupyterExecution
